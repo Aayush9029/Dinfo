@@ -137,7 +137,7 @@ label {
 
 /* line 84, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/theme-default.scss */
 ::selection {
-  background: rgba(68, 68, 68, 0);
+  background: rgba(0, 85, 124, 0.37);
   color: #fff;
   text-shadow: none;
 }
@@ -253,6 +253,7 @@ h3 {
   position: relative;
   z-index: 0;
 }
+
 
 /* line 177, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/theme-default.scss */
 .overlay_03::before {
@@ -2821,7 +2822,7 @@ h3 {
   font-size: 14px;
   color: #fff;
   background: #5db2ff;
-  padding: 10px;
+  padding: 5px;
   padding: 0 22px;
   cursor: pointer;
 }
@@ -2834,13 +2835,13 @@ h3 {
 
 /* line 127, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
 .footer .copy-right_text {
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   background: #000000;
 }
 
 /* line 130, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
 .footer .copy-right_text .footer_border {
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 
 /* line 133, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
@@ -5218,7 +5219,7 @@ h6 {
   cursor: pointer;
   letter-spacing: 2px;
   margin: 10px;
-  width: 480px;
+  width: 300px
 }
 
 .download-btn {
